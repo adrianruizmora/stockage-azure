@@ -1,16 +1,20 @@
 # stockage-azure
+
 Le but de ce brief était d'intégrer des fonctionnalités de stockage Azure Blob dans une application développée en Python et l'application des bonnes practique de programmation.
 
 ## Technologies utilisées
+
   Azure.store.blog
   configparser
   logging
 
 ## Installation
+
    Pour l'installation de modulès necessaires au lancement du script veuillez utiliser la commande:
    pip install -r requirements.txt
     
 ## Configuration
+
    A fin de configurer vos propres credentielles sur le fichier config.ini veuillez remplir les variables de la manière suivante :
    
    [general]
